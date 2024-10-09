@@ -6,7 +6,7 @@ This repository contains my online certificates. Click on the images to view.
 
 | Certificate | Description |
 |-------------|-------------|
-| ![JS Fundamentals](https://softuni.bg/certificates/details/166314/04aaa46e)
+| [JS Fundamentals](https://softuni.bg/certificates/details/166314/04aaa46e)
 | ![Certificate 2](link-to-your-image-2.png) | [Certificate Title 2](link-to-your-certificate-2) |
 | ![Certificate 3](link-to-your-image-3.png) | [Certificate Title 3](link-to-your-certificate-3) |
 | ![Certificate 4](link-to-your-image-4.png) | [Certificate Title 4](link-to-your-certificate-4) |
