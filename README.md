@@ -1,12 +1,12 @@
 # Certificates
 
-This repository contains images of my online certificates. Click on the images to view or download them.
+This repository contains my online certificates. Click on the images to view.
 
 ## Certificates
 
 | Certificate | Description |
 |-------------|-------------|
-| ![Certificate 1](https://softuni.bg/certificates/details/166314/04aaa46e) | [Certificate Title 1](link-to-your-certificate-1) |
+| ![JS Fundamentals](https://softuni.bg/certificates/details/166314/04aaa46e)
 | ![Certificate 2](link-to-your-image-2.png) | [Certificate Title 2](link-to-your-certificate-2) |
 | ![Certificate 3](link-to-your-image-3.png) | [Certificate Title 3](link-to-your-certificate-3) |
 | ![Certificate 4](link-to-your-image-4.png) | [Certificate Title 4](link-to-your-certificate-4) |
@@ -17,12 +17,3 @@ This repository contains images of my online certificates. Click on the images t
 | ![Certificate 9](link-to-your-image-9.png) | [Certificate Title 9](link-to-your-certificate-9) |
 | ![Certificate 10](link-to-your-image-10.png) | [Certificate Title 10](link-to-your-certificate-10) |
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Replace the placeholder links with the actual URLs for your certificate images and corresponding links.
-3. Commit and push the changes to your GitHub repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
