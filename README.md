@@ -4,9 +4,9 @@ This repository contains my online certificates. Click on the link to view.
 
 ## Certificates
 
-| Certificate 
+| Certificate | Grade
 |-------------
-| [JS Fundamentals](https://softuni.bg/certificates/details/166314/04aaa46e)
+| [JS Fundamentals](https://softuni.bg/certificates/details/166314/04aaa46e) | 6.00
 | [JS Advanced](https://softuni.bg/certificates/details/174311/85156451)
 | [JS Back-End](https://softuni.bg/certificates/details/190569/28cf5220)
 | [ReactJS](https://softuni.bg/certificates/details/197857/d3314d89)
